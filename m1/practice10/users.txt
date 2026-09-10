@@ -1,0 +1,6 @@
+Account Number: 040603
+Account Name: Cristian paul
+PIN: 1234
+Account Type: Savings Account
+Balance: 10000.00
+
