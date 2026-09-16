@@ -1,0 +1,16 @@
+Timestamp: 2026-09-13 19:12:58
+Account Number: 02032001
+Account: Cristian Paul P Danduan
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱1,000.00
+Balance After: ₱9,000.00
+
+Timestamp: 2026-09-14 13:58:40
+Account Number: 02032001
+Account: Cristian Paul P Danduan
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱1,000.00
+Balance After: ₱10,000.00
+
